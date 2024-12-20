@@ -20,7 +20,7 @@ Here are some of my recent and exciting projects:
 - **[📘 Learnify-2](https://github.com/Lasca101/Learnify-2)**  
   A platform for posting and selling online courses, providing a seamless learning experience.
 
-**[📘 Freelancer WebSite](https://sunsetarenalavras.com)**  
+- **[📘 Freelancer WebSite](https://sunsetarenalavras.com)**  
   A website to make reservations and payments for courts.  
 
 - **[📘 Exercicios-TI2](https://github.com/Lasca101/Exercicios-TI2)**  
